@@ -2,7 +2,7 @@
 クラスとオブジェクト
 
 #### 処理
-MassageクラスのHelloWorldオブジェクトを使う。
+MassageクラスのHelloWorldメソッドを使う。
 
 | 開発環境 |  |
 |:-|:-|
