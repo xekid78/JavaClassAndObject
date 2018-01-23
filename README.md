@@ -1,4 +1,4 @@
-# Java_SampleCode23
+# JavaSampleCode23
 クラスとオブジェクト
 
 #### 処理
