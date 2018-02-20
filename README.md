@@ -1,4 +1,4 @@
-# JavaClassAndObjects
+# JavaClassAndObject
 クラスとオブジェクト
 
 ## 処理
