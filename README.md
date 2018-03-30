@@ -2,7 +2,7 @@
 クラスとオブジェクト
 
 ## 処理
-MassageクラスのHelloWorldメソッドを使う。
+`Massage()`クラスの`HelloWorld()`メソッドを使う。
 
 ## コード
 ```
